@@ -1,0 +1,17 @@
+name: cmu_10715_applied
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pytorch
+  - pytorch-cuda=11.8
+  - transformers
+  - tokenizers
+  - scipy
+  - nltk
+  - ca-certificates
+  - openssl
+  - gradio
+  - certifi
+  - ipykernel
+  - evaluate
